@@ -70,7 +70,7 @@ The dashboard allows users to apply filters (month, city, and product category) 
 - 🏙️ **Best Performing City:** Noida with ₹ 3.49 Lakhs Sales  
 - 🍟 **Most Order type Category:** Delivery (33.47%) 
 - 🥤 **Most profitable category:** Burgers (highest order volume) 
-- 📅 **Peak Sales Month:** August (**\₹2.96 Lakhs** in sales)
+- 📅 **Peak Sales Month:** August (**₹2.96 Lakhs** in sales)
 
 ## 🔷 Dashboard Preview  
 

@@ -24,8 +24,8 @@ The dashboard allows users to apply filters (month, city, and product category) 
 
 ## 🧠 Business Objectives  
 
-- Analyze **Total Revenue**, **Total Orders**, and **Average Order Value (AOV)**  
-- Identify **top-performing cities** and **best-selling menu items**  
+- Analyze **Total Sales**, **Total Orders**, and **Total Profit**  
+- Identify **top-performing cities** and **best-selling Restaurants**  
 - Monitor **MoM (Month-over-Month) growth** in revenue and orders  
 - Understand **customer buying behavior** (categories: Burgers, Fries, Beverages, Desserts, etc.)  
 - Help management **make informed pricing and marketing decisions**

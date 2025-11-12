@@ -81,7 +81,7 @@ The dashboard allows users to apply filters (month, city, and product category) 
 - Restaurant Sales Analysis
 - Order Type Contribution overall Sales  
 
-![Dashboard Preview](Image/McDonald's Dashboard.png)
+![Dashboard Preview](Image/https://github.com/AnshulKumar-DataAnalyst/McDonalds-NorthIndia-Sales-Dashboard/blob/main/McDonald's%20Dashboard.png)
 
 ---
 

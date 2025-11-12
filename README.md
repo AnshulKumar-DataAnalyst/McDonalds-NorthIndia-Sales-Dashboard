@@ -65,7 +65,7 @@ The dashboard allows users to apply filters (month, city, and product category) 
 
 - ⭐ **Total Sales:** ₹ 33.5 Lakhs  
 - 📈 **MoM Sales Growth:** ***8% Increase***  
-- 📈 **Total Profit:** \₹13.7 Lakhs with a ***8% Mom Increase***
+- 📈 **Total Profit:** ₹13.7 Lakhs with a ***8% Mom Increase***
 - 🧾 **Total Orders:** 20000 with ***5% MoM Increase***
 - 🏙️ **Best Performing City:** Noida with ₹ 3.49 Lakhs Sales  
 - 🍟 **Most Order type Category:** Delivery (33.47%) 

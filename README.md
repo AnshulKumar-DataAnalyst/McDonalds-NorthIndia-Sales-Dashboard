@@ -104,6 +104,7 @@ The dashboard allows users to apply filters (month, city, and product category) 
 
 📧 **Email:** [anshulz18874@gmail.com](mailto:anshulz18874@gmail.com)  
 🔗 **LinkedIn:** (www.linkedin.com/in/anshul-kumar-a1135b37b) 
+
 🐙 **GitHub:** (https://github.com/AnshulKumar-DataAnalyst) 
 
 ---

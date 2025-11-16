@@ -107,6 +107,10 @@ The dashboard allows users to apply filters (month, city, and product category) 
 
 🐙 **GitHub:** (https://github.com/AnshulKumar-DataAnalyst) 
 
+## 📺 Project Walkthrough (YouTube)
+
+▶️ **Watch the Dashboard Video:**  https://youtu.be/riyNS5uS3G4
+
 ---
 
 ⭐ If you found this project useful, consider giving this repository a **star**! ⭐
